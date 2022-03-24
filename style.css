@@ -108,7 +108,7 @@ body
 }
 
 /*
- * Ohyeah and the last one should go the other direction
+ * The last one should go the other direction
  */
 #menuToggle input:checked ~ span:nth-last-child(2)
 {
@@ -149,5 +149,5 @@ body
  */
 #menuToggle input:checked ~ ul
 {
-  transform: none
+  transform: none;
 }
